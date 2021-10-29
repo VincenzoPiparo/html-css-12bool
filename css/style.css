@@ -1,7 +1,16 @@
 .box{
     height: 50px;
-    background-color: blue;
+    padding: 10px;
+    background-color: #006cfa;
     border: 1px solid white;
     color: white;
     font-size: 23px;
+    text-align: center;
+}
+
+.nested-box{
+    background-color: #00e164;
+    border: 1px solid white;
+    height: 100%;
+    font-size: 15px;
 }
